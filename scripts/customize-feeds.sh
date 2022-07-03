@@ -51,5 +51,5 @@ git clone --depth=1 https://github.com/xiaorouji/openwrt-passwall
 #svn co https://github.com/project-openwrt/openwrt/trunk/package/ntlf9t/luci-app-smartdns ../luci-app-smartdns
 
 # Add adbyby
-cp -r /workdir/lede/package/lean/adbyby ./
-cp -r /workdir/lede/package/lean/luci-app-adbyby-plus ./
+#cp -r /workdir/lede/package/lean/adbyby ./
+#cp -r /workdir/lede/package/lean/luci-app-adbyby-plus ./
